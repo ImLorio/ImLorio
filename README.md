@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ImLorio&count_private=true&show_icons=true&hide_border=true&hide=stars&theme=dracula"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImLorio&layout=compact&card_width=250&hide_border=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImLorio&layout=compact&card_width=250&hide_border=true&theme=dracula"/>
 
 <!--
 **ImLorio/ImLorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
