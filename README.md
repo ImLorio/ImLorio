@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ImLorio&count_private=true&show_icons=true&hide_border=true&hide=stars&theme=dracula"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImLorio&card_width=250&hide_border=true&theme=dracula"/>
 
